@@ -23,7 +23,7 @@ Proyek ini telah memenuhi semua petunjuk tugas, termasuk implementasi struktur M
 * **Framework:** Flutter (dengan Dart SDK >=3.0.0)
 * **State Management & Routing:** GetX (`get: ^4.6.6`)
 * **Pola Desain:** Modular/MVC (Modul terpisah untuk View, Controller, dan Binding).
-* **Aset:** Digunakan untuk logo Unsoed (`logo_unsoed.png`), gambar profil kampus (`profil_kampus.jpg`), dan banner fakultas (`informatika.jpg`).
+* **Aset:** Digunakan untuk logo Unsoed (`logo_unsoed.png`), gambar profil kampus (`profil_kampus.png`), dan banner untuk program studi (`informatika.jpg`) serta view untuk di bagian Visi Misi ('visi_misi.jpg).
 
 ### 2. Pemenuhan Fitur (Poin Tugas)
 
