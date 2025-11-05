@@ -1,6 +1,6 @@
 # 📚 Aplikasi Profil Kampus UNSOED (Paket 0)
 
-Aplikasi mobile dan web yang dikembangkan menggunakan **Flutter** dan **GetX** untuk menampilkan informasi dasar dan struktur Program Studi Universitas Jenderal Soedirman (UNSOED). Proyek ini diselesaikan sebagai bagian dari tugas mata kuliah Pemrograman Mobile.
+Aplikasi mobile dan web yang dikembangkan menggunakan **Flutter** dan **GetX** untuk menampilkan informasi dari Aplikasi Kampus. Proyek ini diselesaikan sebagai bagian dari tugas mata kuliah Pemrograman Mobile.
 
 ---
 
@@ -14,6 +14,9 @@ Aplikasi mobile dan web yang dikembangkan menggunakan **Flutter** dan **GetX** u
 
 ---
 <img width="360" height="780" alt="iPhone-13-PRO-localhost" src="https://github.com/user-attachments/assets/4007aa2a-d6b9-4b2a-b4d3-b3b94a2a8e1a" />
+
+Contoh tampilan (view visi misi)
+<img width="360" height="780" alt="view visi misi" src="https://github.com/user-attachments/assets/7ea84e73-a42e-4ecc-a03e-ac75ee875d0a" />
 
 
 ## ✨ Detail Implementasi
