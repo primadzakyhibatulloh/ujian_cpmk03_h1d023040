@@ -55,6 +55,3 @@ Proyek ini telah memenuhi semua petunjuk tugas, termasuk implementasi struktur M
 3.  **Jalankan Aplikasi:**
     ```bash
     flutter run
-    ```
-    *(Gunakan `flutter run -d chrome` untuk menguji tampilan Desktop/Web).*
-```eof
