@@ -6,13 +6,15 @@ Aplikasi mobile dan web yang dikembangkan menggunakan **Flutter** dan **GetX** u
 
 ## 🙋‍♂️ Informasi Pengembang
 
-| Detail | Nilai | 
+| Detail | Penjelasan | 
 | :--- | :--- | 
 | **Nama** | Prima Dzaky Hibatulloh | 
 | **NIM** | H1D023040 | 
 | **Mata Kuliah** | CPMK 03 (Pemrograman Mobile) | 
 
 ---
+<img width="360" height="780" alt="iPhone-13-PRO-localhost" src="https://github.com/user-attachments/assets/4007aa2a-d6b9-4b2a-b4d3-b3b94a2a8e1a" />
+
 
 ## ✨ Detail Implementasi
 
