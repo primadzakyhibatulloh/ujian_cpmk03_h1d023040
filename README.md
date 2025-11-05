@@ -36,3 +36,25 @@ Proyek ini telah memenuhi semua petunjuk tugas, termasuk implementasi struktur M
 | **Perbaikan Layout** | Penggunaan **`AspectRatio(16/9)`** untuk menjaga proporsi gambar pada tampilan Desktop. | ✅ | 
 
 ### 3. Struktur Direktori (`lib/`)
+<img width="347" height="311" alt="image" src="https://github.com/user-attachments/assets/1df6a69f-a33f-45c5-9797-cf2ba131183a" />
+
+
+---
+
+## 🚀 Cara Menjalankan Projek
+
+1.  **Clone Repositori:**
+    ```bash
+    git clone [https://github.com/primadzakyhibatulloh/ujian_cpmk03_h1d023040.git](https://github.com/primadzakyhibatulloh/ujian_cpmk03_h1d023040.git)
+    cd ujian_cpmk03_h1d023040
+    ```
+2.  **Instal Dependensi:**
+    ```bash
+    flutter pub get
+    ```
+3.  **Jalankan Aplikasi:**
+    ```bash
+    flutter run
+    ```
+    *(Gunakan `flutter run -d chrome` untuk menguji tampilan Desktop/Web).*
+```eof
